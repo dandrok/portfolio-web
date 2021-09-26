@@ -7,3 +7,5 @@ New:
 - redux
 - REST API fetch
 - Firebase
+
+\*\* new design in preparation
